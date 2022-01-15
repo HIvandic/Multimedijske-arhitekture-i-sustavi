@@ -1,0 +1,7 @@
+1. __cosl_internal	63.08%
+2. dct			20.00%
+3. cos			14.87%
+4. rgb2ycbcr		0.51%
+5. fprintf		0.51%
+
+Vrijeme izvodjenja: 1.95 s.

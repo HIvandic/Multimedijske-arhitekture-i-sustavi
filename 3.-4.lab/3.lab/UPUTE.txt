@@ -1,0 +1,8 @@
+1.Kompajlanje programa:
+	gcc -pg -no-pie -fno-builtin ime_filea.c -o ime_filea
+
+2. Pokretanje programa pri čemu bi se trebala generirati datoteka gmon.out:
+	ime_filea.exe lenna.ppm out.txt
+
+3. Generiranje datoteke u kojoj pišu rezultati profiliranja:
+	gprof ime_filea.exe > profile.txt

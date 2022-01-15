@@ -1,0 +1,13 @@
+﻿  hana_ivandic_dz4.c
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(123,22): warning C4244: '=': conversion from 'double' to 'Ipp32s', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(125,23): warning C4244: '=': conversion from 'double' to 'Ipp32s', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(127,17): warning C4244: 'return': conversion from 'Ipp32s' to 'float', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(146,98): warning C4244: 'function': conversion from 'double' to 'Ipp32s', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(147,94): warning C4244: 'function': conversion from 'double' to 'Ipp32s', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(148,93): warning C4244: 'function': conversion from 'double' to 'Ipp32s', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(162,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(169,26): warning C4013: 'ippiDCT8x8Fwd_32f_C1T' undefined; assuming extern returning int
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(184,105): warning C4244: '=': conversion from 'double' to 'Ipp32s', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(185,107): warning C4244: '=': conversion from 'double' to 'Ipp32s', possible loss of data
+C:\Users\Hana\Desktop\Faks\diplomski\2.godina\3.semestar\mas\4.lab\4.lab\4.lab\hana_ivandic_dz4.c(186,107): warning C4244: '=': conversion from 'double' to 'Ipp32s', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'D:\Intel\ipp\2021.5.0\include\ippcore.h/../../lib/ia32/ippcoremt.lib'
